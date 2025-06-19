@@ -30,7 +30,7 @@ O projeto consiste na criação de um jogo de memória interativo, onde os leds 
 
 ### Video no Youtube:
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+[Vídeo do Projeto](https://youtu.be/YVPJHoRbtsY)
 
 ### Alunos:
 
