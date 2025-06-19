@@ -26,7 +26,7 @@ O projeto consiste na criação de um jogo de memória interativo, onde os leds 
 
 ### Software:
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+[Código do Jogo](codigojogo.ino)
 
 ### Video no Youtube:
 
