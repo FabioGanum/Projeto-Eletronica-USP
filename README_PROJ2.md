@@ -26,7 +26,7 @@ O projeto consiste na criação de um jogo de memória interativo, onde os leds 
 
 ### Software:
 
-[Código do Jogo](codigojogo.ino)
+[Código do Jogo](codigo_jogo.ino)
 
 ### Video no Youtube:
 
