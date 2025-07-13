@@ -6,20 +6,13 @@ O projeto consiste na criação de uma *fonte de tensão ajustável*, entre 3V e
 ### Componentes:
 | Componentes   | Quantidade    | Valor |
 | ------------- |:-------------:| -----:|
-| transistor    | 1 | R$1600 |
-| Diodo 1N4001      | 1      |   R$12 |
-| Capacitor 560uF | 1      |   R$1 |
-|Led Vermelho 5mm | 1| R$
-| Resistor 1k ohm | 1| R$
-| Resistor 120 ohm | 1| R$
-| Resistor 2.2k |1 | R$
-| Potenciômetro 5k | 1| R$
-| Diodo Zener (13v) | 1| R$
-| Transistor NPN | 1| R$
-| Transformador |1 | R$
-| Fusível |1 | R$
-| Varistor | 1| R$
-| Total |1 | R$ 0,0
+| PONTE RETIFICADORA 2W10M 2A 800V JINNAN LGE    | 2 | R$7,80 |
+| CAPACITOR ELCO 1UFX100V 105°C 11X5MM KOSHIN       | 2      |   R$1,00 |
+| DIODO ZENER 13V 1W = 1N4743 SEMTECH | 2      |   R$1,00 |
+|TRANSISTOR 2N3904 NPN 60V 0,2A 0,625W TO-92 NXP | 2| R$3,20
+| BARRA 1X40 11,6X3 2,4MM BMO 180 GRAUS DS1021-1  | 1| R$3,00
+| Resistor 120 ohm | 10| R$0,70
+| Resistor 2.2k |10 | R$0,70
 
 ### Descricao dos componentes: 
 
@@ -65,9 +58,11 @@ O projeto consiste na criação de uma *fonte de tensão ajustável*, entre 3V e
 
 ### Video no Youtube:
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+https://youtu.be/foVb5XtT9dU
 
 ### Alunos:
+
+![alt text](https://github.com/FabioGanum/Projeto-Eletronica-USP/blob/Pojeto-1/WhatsApp%20Image%202025-07-12%20at%2013.58.13.jpeg "Logo Title Text 1")
 
 Fabio Ganum Filho  
 Rafaela Dãmaso Breseghello
