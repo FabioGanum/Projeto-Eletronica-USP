@@ -19,31 +19,37 @@ O projeto consiste na criação de um *genios*, o famoso jogo de memória envolv
 
 - Leds: Sao resistores que dissipam energia eletrica em forma de energia luminosa.
 
+- Buzzer: Dispositivo que funciona como um alto-falante.
+
 ### Imagem do Circuito:
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/FabioGanum/Projeto-Eletronica-USP/blob/6562d83389785b67a907499b28ba5d3115641bf7/circuito%20imagem.png "Logo Title Text 1")
 
 ### Codigo:
 
+https://github.com/FabioGanum/Projeto-Eletronica-USP/blob/6562d83389785b67a907499b28ba5d3115641bf7/codigo_jogo.ino
 
+### Como deve funcionar:
 
-### Link do Circuito no Falstad
+  1. Ao executar o programa, todos os leds acenderão e é dado um sinal sonoro.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+  2. Aleatoriamente, acenderá o primeiro led entre os 4 leds do jogo. O programa irá aguardar que o jogador clique no botão correspondente.Melhores consolas de videojogos
 
-### Imagem esquemático da PCB:
+  2.1. Cada led aceso tem um som correspondente.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+  3. Se o jogador acertar o botão, repete-se a sequência com o acréscimo aleatório do segundo led.
 
-### Imagem PCB no programa Proteus:
+  4. Se o jogador errar, acenderá um sinal sonoro indicando o fim do jogo. Novo led se acenderá....
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+  5. Ganha o jogador que acertar mais jogadas, ou seja, memorizar a maior sequência de sons.
 
 ### Video no Youtube:
 
 https://youtu.be/3dZFWQTMEXc
 
 ### Alunos:
+
+![alt text](https://github.com/FabioGanum/Projeto-Eletronica-USP/blob/Pojeto-1/WhatsApp%20Image%202025-07-12%20at%2013.58.13.jpeg "Logo Title Text 1")
 
 Fabio Ganum Filho  
 Rafaela Dãmaso Breseghello
